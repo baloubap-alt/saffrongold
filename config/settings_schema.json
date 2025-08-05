@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Impostazioni Tema Saffrongold",
+    "settings": [
+      {
+        "type": "text",
+        "id": "announcement_text",
+        "label": "Annuncio in homepage",
+        "default": "Benvenuto su Saffrongold!"
+      }
+    ]
+  }
+]
